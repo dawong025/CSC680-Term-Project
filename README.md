@@ -1,10 +1,21 @@
 # CSC680-Term-Project
 This is my CSC680 - Application Development for Mobile Devices Term Project
 
-Must Have Features
+Welcome to ProcrastiNOT, the app to reduce procrastination in your daily life.
 
-Nice to Have Features
+## Must Have Features
+- Have multiple views, including completed tasks, in progress tasks
+- List out todo tasks
+- Break down tasks into smaller tasks
+- color code tasks
+- sort tasks (by date, priority, etc)
 
-Basic Wireframes
+## Nice to Have Features
+- store tasks using CoreData, database
+- Add tags to tasks
+- Have a Post-It aesthetic
+- Progress/"level up" bar
+
+## Basic Wireframes
 
 
