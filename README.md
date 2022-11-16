@@ -1,7 +1,7 @@
 # CSC680-Term-Project
 This is my CSC680 - Application Development for Mobile Devices Term Project
 
-Welcome to ProcrastiNOT, the app to reduce procrastination in your daily life.
+Welcome to ProcrastiNOTe, the app to reduce procrastination in your daily life.
 
 ## Must Have Features
 - Have multiple views, including completed tasks, in progress tasks
